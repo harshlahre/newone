@@ -19,7 +19,7 @@ Now you can download all the Photos and Videos of an Instagram User. No Restrict
 
 ## Installation
 
-For use this project on your computer all you need is node and npm.
+For use this project on your computer all you need is node and npm. Harsh lahre
 
 Clone this project on your computer then install all required packages in frontend and backend directories.
 
